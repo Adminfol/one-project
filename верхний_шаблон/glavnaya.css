@@ -1,0 +1,15 @@
+body {margin:0px;
+text-align:center;}
+#block {background-color:BlueViolet;}
+#block_glavnaya, #block_napravleniya,
+#block_glavnaya, #block_novosty, 
+#block_kontakty, #block_glavnaya, 
+#block_sobytiya, #block_lichnyy_kabinet,
+#block_vhod, #block_registraciya {color:white;
+float:left;
+}
+#block_glavnaya:hover, #block_napravleniya:hover,
+#block_glavnaya:hover, #block_novosty:hover, 
+#block_kontakty:hover, #block_glavnaya:hover, 
+#block_sobytiya:hover, #block_lichnyy_kabinet:hover,
+#block_vhod:hover, #block_registraciya:hover {border-bottom:3px solid white;}
