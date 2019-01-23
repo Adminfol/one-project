@@ -1,4 +1,5 @@
-function adaptaciya(){
+$(document).ready(function(){
+/*function adaptaciya(){
 $("#block").css({
 "height":$("#block_glavnaya, #block_napravleniya, #block_glavnaya, #block_novosty, #block_kontakty, #block_glavnaya, #block_sobytiya, #block_lichnyy_kabinet, #block_vhod, #block_registraciya").height()+3
 });
@@ -18,4 +19,18 @@ $(".text").css({
 });
 }
 }
-setInterval(adaptaciya, 500);
+setInterval(adaptaciya, 500);*/
+//Кнопки верхней панели
+$("#fadeNapravleniya").fadeOut();
+$("#btn_glavnaya").click(function(){
+$("#fadeGlavnaya").fadeIn();
+
+$("#fadeNapravleniya").fadeOut();
+});
+
+$("#btn_napravleniya").click(function(){
+$("#fadeNapravleniya").fadeIn();
+
+$("#fadeGlavnaya").fadeOut();
+ });
+});
