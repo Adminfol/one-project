@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-s",
+				"list-style-type\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"text-decoration-l",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"dec",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"body",
+				"bodyW"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"width",
+				"border-image-width\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"f",
+				"fclose"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/dizain_web/glavnaya.php",
+		"/C/xampp/htdocs/dizain_web/glavnaya.js",
+		"/C/xampp/htdocs/dizain_web/glavnaya.css",
+		"/C/xampp/htdocs/html/index.css",
+		"/C/xampp/htdocs/html/index.html",
+		"/C/xampp/htdocs/dizain_web/html/index.css",
+		"/C/xampp/htdocs/dizain_web/html/index.html",
+		"/C/xampp/htdocs/dizain_web/index.html",
+		"/C/Users/Dell/Desktop/vbs.vbs",
+		"/C/xampp/htdocs/web_syte_real/index.php",
+		"/C/xampp/htdocs/append_element/index.php",
+		"/C/xampp/htdocs/append_element/jquery-3.1.1.js",
+		"/C/xampp/htdocs/append_element/css.css",
+		"/C/xampp/htdocs/append_element/jquery.js",
+		"/C/xampp/htdocs/win_reg/style.css",
+		"/C/xampp/htdocs/win_reg/windows_reg.php",
+		"/C/xampp/htdocs/win_reg/index.php",
+		"/C/Users/Dell/Documents/windows_demo.bat",
+		"/C/Users/Dell/Desktop/xampp_htdocs/myphp.bat",
+		"/C/xampp/htdocs/myphp/jquery.js",
+		"/C/xampp/htdocs/myphp/css.css",
+		"/C/xampp/htdocs/myphp/index.php",
+		"/C/xampp/htdocs/spravochnik/jquery.js",
+		"/C/xampp/htdocs/spravochnik/css.css",
+		"/C/xampp/htdocs/spravochnik/index.php",
+		"/C/Users/Dell/Documents/spravochnik.bat",
+		"/C/Users/Dell/Documents/xampp_htdocs.bat",
+		"/C/Users/Dell/Documents/fwrite.txt",
+		"/C/Users/Dell/Documents/myphp.bat",
+		"/C/xampp/htdocs/phphello/main.php",
+		"/C/xampp/htdocs/phphello/test.php",
+		"/C/Users/Dell/Documents/phphello.bat",
+		"/C/Users/Dell/Documents/test.php",
+		"/C/xampp/htdocs/myphp/index.html",
+		"/C/xampp/htdocs/myphp/files.js",
+		"/C/xampp/htdocs/myphp/files.php",
+		"/C/Users/Dell/Desktop/jQuery/test.html",
+		"/C/Users/Dell/Desktop/jQuery/test.js",
+		"/C/Users/Dell/Desktop/jQuery/test.css",
+		"/C/xampp/htdocs/phphello/index.html",
+		"/C/Users/Dell/Downloads/EVPmaker_2.6.rar",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Dell/Documents/test.js",
+		"/C/Users/Dell/Documents/cssjQuery.css",
+		"/C/Users/Dell/Documents/Photo/js/test.html",
+		"/C/Users/Dell/Documents/test.html",
+		"/C/Program Files (x86)/Sublime Text 3/js/test.php",
+		"/C/Program Files (x86)/Sublime Text 3/js/test.html",
+		"/C/Program Files (x86)/Sublime Text 3/js/test.js",
+		"/C/Program Files (x86)/Sublime Text 3/js/test.sublime-workspace",
+		"/C/Program Files (x86)/Sublime Text 3/js/test",
+		"/C/Users/Dell/Downloads/web syte/test.js",
+		"/C/Users/Dell/Downloads/web syte/test.html",
+		"/C/Users/Dell/Downloads/web syte/test.css",
+		"/C/Program Files (x86)/Sublime Text 3/sublime_text.exe",
+		"/C/Program Files (x86)/Sublime Text 3/python3.3.zip"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "glavnaya.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
