@@ -8,31 +8,18 @@
 	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
 </head>
 <body>
-
 <header>
-	<nav>
-		<ul>
-			<li><a href="#" id="btn_glavnaya">Главная</a></li>
-			<li><a href="#" id="btn_napravleniya">Направления</a></li>
-			<li><a href="#" id="btn_novosti">Новости</a></li>
-			<li><a href="#" id="btn_kontakti">Контакты</a></li>
-			<li><a href="#" id="btn_sobytiya">События</a></li>
-			<li><a href="#" id="btn_lichnyy_kabinet">Личный кабинет</a></li>
-		</ul>
-	</nav>
-</header>
-
-<!--<div id="block">
-<div id="block_glavnaya"><div class="text">Главная</div></div>
-<div id="block_napravleniya"><div class="text">Направления</div></div>
-<div id="block_novosty"><div class="text">Новости</div></div>
-<div id="block_kontakty"><div class="text">Контакты</div></div>
-<div id="block_sobytiya"><div class="text">События</div></div>
-<div id="block_lichnyy_kabinet"><div class="text">Личный кабинет</div></div>
-<div id="block_vhod"><div class="text">Вход</div></div>
-<div id="block_registraciya"><div class="text">Регистрация</div></div>	
-</div>-->
-<div id="fadeGlavnaya">
+  <div id="between">
+  <span>Главная</span>
+  <span>Направления</span>
+  <span>Новости</span>
+  <span>Контакты</span>
+  <span>События</span>
+  <span>Личный кабинет</span>
+  </div>
+ <header>
+<footer>
+ <div id="fadeGlavnaya">
 <br>
 <br>
 <br>
@@ -125,11 +112,25 @@
 </div>
 <br>
 <br>
-</div>
-
-<div id="fadeNapravleniya">
+ </div>
+ <div id="fadeNapravleniya">
 Направления
-</div>
+ </div>
+ <div id="fadeNowosti">
+Новости
+ </div>
+ <div id="fadeKontakty">
+Контакты
+ </div>
+ <div id="fadeSobytiya">
+События
+ </div>
+ <div id="fadeLichnyyKabinet">
+Личный кабинет
+ </div>
+</footer>
+
+
 <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
 <script src="glavnaya.js"></script>
 <script src="javascript/glavnaya_bottom.js"></script>
