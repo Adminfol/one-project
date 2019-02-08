@@ -9,7 +9,7 @@
 <body>
 <nav class="navbar bg-primary navbar-expand-md navbar-dark">
 	<div class="container">
-		<a href="https://localhost/programming_web/index.php" class="navbar-brand">ЧМ 2018 в России</a>
+		<a href="https://localhost/programming_web/index.php" class="navbar-brand">ЧМ 2019 в России</a>
 		<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#cpnavbar">
 			<span class="navbar-toggler-icon"></span>
 		</button>
@@ -47,6 +47,47 @@
 		<span class="str-only">></span>
 	</a>
 </div>
+
+<div class="container">
+
+<div id="imgBlock">
+	<div id="imageSize" class="imgBox1"></div>
+	<center>ИТОГИ ГОДА</center>
+	<div id="just_alg_itms">2019 - й в цифрах</div>
+</div>
+
+<div id="imgBlock">
+	<div id="imageSize" class="imgBox2"></div>
+	<center>ИТОГИ ГОДА</center>
+	<div id="just_alg_itms">2019 - й в цифрах</div>
+</div>
+
+<div id="imgBlock">
+	<div id="imageSize" class="imgBox3"></div>
+	<center>ИТОГИ ГОДА</center>
+	<div id="just_alg_itms">2019 - й в цифрах</div>
+</div>
+
+<div id="imgBlock">
+	<div id="imageSize" class="imgBox4"></div>
+	<center>ИТОГИ ГОДА</center>
+	<div id="just_alg_itms">2019 - й в цифрах</div>
+</div>
+
+<div id="imgBlock">
+	<div id="imageSize" class="imgBox5"></div>
+	<center>ИТОГИ ГОДА</center>
+	<div id="just_alg_itms">2019 - й в цифрах</div>
+</div>
+
+<div id="imgBlock">
+	<div id="imageSize" class="imgBox6"></div>
+	<center>ИТОГИ ГОДА</center>
+	<div id="just_alg_itms">2019 - й в цифрах</div>
+</div>
+
+</div>
+
 <?php include("myadmin/myadmin.php");?>
 <?php include("files_script.php");?>
 <script type="text/javascript" src="script/script.js"></script>
