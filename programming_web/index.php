@@ -29,13 +29,13 @@
 <div id="mySlayder" class="carousel slide" data-ride="carousel">
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<img id="img" src="https://htmllessons.ru/uploads/posts/img_nRqq07fCxy.jpeg" class="d-block w-100"></img>
+			<img class="img d-block w-100" src="https://htmllessons.ru/uploads/posts/img_nRqq07fCxy.jpeg"></img>
 		</div>
 		<div class="carousel-item">
-			<img id="img2" src="https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg" class="d-block w-100"></img>
+			<img class="img2 d-block w-100" src="https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg"></img>
 		</div>
 		<div class="carousel-item">
-			<img id="img3" src="https://i.ytimg.com/vi/RTsGf-JXGcU/maxresdefault.jpg" class="d-block w-100"></img>
+			<img class="img3 d-block w-100" src="https://i.ytimg.com/vi/RTsGf-JXGcU/maxresdefault.jpg"></img>
 		</div>
 	</div>
 	<a href="#mySlayder" class="carousel-control-prev" role="button" data-slide="prev">
@@ -50,40 +50,44 @@
 
 <div class="container">
 
-<div id="imgBlock">
-	<div id="imageSize" class="imgBox1"></div>
+<div class="imgBlock">
+	<div class="imageSize imgBox1 d-block w-100"></div>
 	<center>ИТОГИ ГОДА</center>
-	<div id="just_alg_itms">2019 - й в цифрах</div>
+	<div class="just_alg_itms">2019 - й в цифрах</div>
 </div>
 
-<div id="imgBlock">
-	<div id="imageSize" class="imgBox2"></div>
+<div class="imgBlock">
+	<div class="imageSize imgBox2 d-block w-100"></div>
 	<center>ИТОГИ ГОДА</center>
-	<div id="just_alg_itms">2019 - й в цифрах</div>
+	<div class="just_alg_itms">2019 - й в цифрах</div>
 </div>
 
-<div id="imgBlock">
-	<div id="imageSize" class="imgBox3"></div>
+<div class="imgBlock">
+	<div class="imageSize imgBox3 d-block w-100"></div>
 	<center>ИТОГИ ГОДА</center>
-	<div id="just_alg_itms">2019 - й в цифрах</div>
+	<div class="just_alg_itms">2019 - й в цифрах</div>
 </div>
 
-<div id="imgBlock">
-	<div id="imageSize" class="imgBox4"></div>
-	<center>ИТОГИ ГОДА</center>
-	<div id="just_alg_itms">2019 - й в цифрах</div>
 </div>
 
-<div id="imgBlock">
-	<div id="imageSize" class="imgBox5"></div>
+<div class="container">
+
+<div class="imgBlock">
+	<div class="imageSize imgBox4 d-block w-100"></div>
 	<center>ИТОГИ ГОДА</center>
-	<div id="just_alg_itms">2019 - й в цифрах</div>
+	<div class="just_alg_itms">2019 - й в цифрах</div>
 </div>
 
-<div id="imgBlock">
-	<div id="imageSize" class="imgBox6"></div>
+<div class="imgBlock">
+	<div class="imageSize imgBox5 d-block w-100"></div>
 	<center>ИТОГИ ГОДА</center>
-	<div id="just_alg_itms">2019 - й в цифрах</div>
+	<div class="just_alg_itms">2019 - й в цифрах</div>
+</div>
+
+<div class="imgBlock">
+	<div class="imageSize imgBox6 d-block w-100"></div>
+	<center>ИТОГИ ГОДА</center>
+	<div class="just_alg_itms">2019 - й в цифрах</div>
 </div>
 
 </div>

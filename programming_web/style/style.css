@@ -18,13 +18,13 @@ color:white;}
 ul,#between{width:100%;}
 nav{display:flex;}
 .navbar-brand{flex-grow: 0.4;}
-#img{background-size:100% 100%;
+.img{background-size:100% 100%;
 background-repeat:no-repeat;
 height:500px;}
-#img2{background-size:100% 100%;
+.img2{background-size:100% 100%;
 background-repeat:no-repeat;
 height:500px;}
-#img3{background-size:100% 100%;
+.img3{background-size:100% 100%;
 background-repeat:no-repeat;
 height:500px;}
 .str-only{font-size:30px;}
@@ -34,15 +34,19 @@ height:500px;}
 .imgBox4{background-image:url("http://antosoft.net/parseimg/2690106/e18f50b7b851b72796868b912a9648a5.jpg");}
 .imgBox5{background-image:url("http://www.sihirlifasulyeler.com/images/topics/bootstrap.jpg");}
 .imgBox6{background-image:url("https://www.build-career.org/wp-content/uploads/2016/12/bootstrap4.jpg");}
-#imageSize{background-repeat:no-repeat;
+.imageSize{background-repeat:no-repeat;
 background-size:100% 100%;
 height:200px;}
-#imgBlock{margin-top:10px;
+.imgBlock{margin-top:10px;
 border:0.1px solid black;
 width:202px;}
 center{height:30px;
 border:0.1px solid black;}
-#just_alg_itms{height:100px;
+.just_alg_itms{height:100px;
 display:flex;
 align-items:center;
 justify-content:center;}
+.container{flex-direction:row;
+display:flex;
+justify-content:space-between;
+}
