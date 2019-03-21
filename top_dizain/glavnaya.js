@@ -1,21 +1,55 @@
-function adaptaciya(){
-$("#block").css({
-"height":$("#block_glavnaya, #block_napravleniya, #block_glavnaya, #block_novosty, #block_kontakty, #block_glavnaya, #block_sobytiya, #block_lichnyy_kabinet, #block_vhod, #block_registraciya").height()+3
+$(document).ready(function(){
+$("#fadeNapravleniya").fadeOut();
+$("#fadeNowosti").fadeOut();
+$("#fadeKontakty").fadeOut();
+$("#fadeSobytiya").fadeOut();
+$("#fadeLichnyyKabinet").fadeOut();
+$("span").eq(0).click(function(){
+$("#fadeGlavnaya").fadeIn();
+$("#fadeNapravleniya").fadeOut();
+$("#fadeNowosti").fadeOut();
+$("#fadeKontakty").fadeOut();
+$("#fadeSobytiya").fadeOut();
+$("#fadeLichnyyKabinet").fadeOut();
 });
-$("#block_glavnaya, #block_napravleniya, #block_glavnaya, #block_novosty, #block_kontakty, #block_glavnaya, #block_sobytiya, #block_lichnyy_kabinet, #block_vhod, #block_registraciya").css({
-"width":$(window).width()/2/2/2-2,
-"height":"40px"
+$("span").eq(1).click(function(){
+$("#fadeNapravleniya").fadeIn();
+$("#fadeGlavnaya").fadeOut();
+$("#fadeNowosti").fadeOut();
+$("#fadeKontakty").fadeOut();
+$("#fadeSobytiya").fadeOut();
+$("#fadeLichnyyKabinet").fadeOut();
 });
-if($(window).width() >= $(window).height()){
-$(".text").css({
-"font-size":$(window).width()/2/2/2/2/2/2+1.9,
-"margin-top":$("#block_glavnaya, #block_napravleniya, #block_glavnaya, #block_novosty, #block_kontakty, #block_glavnaya, #block_sobytiya, #block_lichnyy_kabinet, #block_vhod, #block_registraciya").height()/5
+$("span").eq(2).click(function(){
+$("#fadeNowosti").fadeIn();
+$("#fadeGlavnaya").fadeOut();
+$("#fadeNapravleniya").fadeOut();
+$("#fadeKontakty").fadeOut();
+$("#fadeSobytiya").fadeOut();
+$("#fadeLichnyyKabinet").fadeOut();
 });
-}else{
-$(".text").css({
-"font-size":$(window).width()/2/2/2/2/2/2+2.4,
-"margin-top":$("#block_glavnaya, #block_napravleniya, #block_glavnaya, #block_novosty, #block_kontakty, #block_glavnaya, #block_sobytiya, #block_lichnyy_kabinet, #block_vhod, #block_registraciya").height()/5
+$("span").eq(3).click(function(){
+$("#fadeKontakty").fadeIn();
+$("#fadeGlavnaya").fadeOut();
+$("#fadeNapravleniya").fadeOut();
+$("#fadeNowosti").fadeOut();
+$("#fadeSobytiya").fadeOut();
+$("#fadeLichnyyKabinet").fadeOut();
 });
-}
-}
-setInterval(adaptaciya, 500);
+$("span").eq(4).click(function(){
+$("#fadeSobytiya").fadeIn();
+$("#fadeGlavnaya").fadeOut();
+$("#fadeNapravleniya").fadeOut();
+$("#fadeNowosti").fadeOut();
+$("#fadeKontakty").fadeOut();
+$("#fadeLichnyyKabinet").fadeOut();
+});
+$("span").eq(5).click(function(){
+$("#fadeLichnyyKabinet").fadeIn();
+$("#fadeGlavnaya").fadeOut();
+$("#fadeNapravleniya").fadeOut();
+$("#fadeNowosti").fadeOut();
+$("#fadeKontakty").fadeOut();
+$("#fadeSobytiya").fadeOut();
+});
+});

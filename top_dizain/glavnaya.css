@@ -1,25 +1,24 @@
-body {margin:0px;}
-#block {background-color:BlueViolet;
-text-align:center;
-font-family:Times new roman;
+body{margin:0;padding:0px;}
+span {
+width:43px;
+height:41px;
+display:flex;
+align-items:center;
+justify-content:center;
 }
-#block_glavnaya, #block_napravleniya,
-#block_glavnaya, #block_novosty, 
-#block_kontakty, #block_glavnaya, 
-#block_sobytiya, #block_lichnyy_kabinet,
-#block_vhod, #block_registraciya {color:white;
-float:left;
+span:hover {
+border-bottom:3px solid white;
 }
-#block_glavnaya:hover, #block_napravleniya:hover,
-#block_glavnaya:hover, #block_novosty:hover, 
-#block_kontakty:hover, #block_glavnaya:hover, 
-#block_sobytiya:hover, #block_lichnyy_kabinet:hover,
-#block_vhod:hover, #block_registraciya:hover {border-bottom:3px solid white;}
-.text {
-	text-align:center;
+#between {height:41px;
+background-color:blueviolet;
+display:flex;
+flex-direction:row;
+align-items:center;
+justify-content:space-between;
+color:white;
+font-size:10px;
+}
 
-}
-/*#href {}*/
 #btn_volonter{text-align:center;
 	background-color:BlueViolet;
 	height:50px;
@@ -57,12 +56,17 @@ height:200px;
 border:1px solid black;
 border-radius:500px;
 }
+#image3 {
+background-image:url("https://developers.google.com/maps/documentation/maps-static/images/error-image-generic.png");
+background-size:100% 100%;
+width:200px;
+height:200px;
+border:1px solid black;
+border-radius:500px;
+}
 .imageSize {
-
 display: flex;
 justify-content: space-around; 
-
-
 }
 
 .imageSize .row{
@@ -71,6 +75,61 @@ justify-content: space-around;
 	width: 50%;
 }
 #img_bootom_text {
+text-align:center;
 	width:200px;
-	height:100px;
+}
+span {width:200px;
+height:200px;
+border: 1px solid black;
+display: flex;
+justify-content: space-between;
+}
+.spanSize {
+display: flex;
+justify-content: center; 
+}
+.rows {
+width: 70%; 
+display: flex;
+justify-content: space-between;
+}
+#spanImg1 {
+	background-image:url("https://developers.google.com/maps/documentation/maps-static/images/error-image-generic.png");
+	background-size:100% 100%;
+	background-repeat:no-repeat; 
+}
+#spanImg2 {
+	background-image:url("https://developers.google.com/maps/documentation/maps-static/images/error-image-generic.png");
+	background-size:100% 100%;
+	background-repeat:no-repeat; 
+}
+#spanImg3 {
+	background-image:url("https://developers.google.com/maps/documentation/maps-static/images/error-image-generic.png");
+	background-size:100% 100%;
+	background-repeat:no-repeat; 
+}
+#spanImg4 {
+	background-image:url("https://developers.google.com/maps/documentation/maps-static/images/error-image-generic.png");
+	background-size:100% 100%;
+	background-repeat:no-repeat; 
+}
+#spanImg5 {
+	background-image:url("https://developers.google.com/maps/documentation/maps-static/images/error-image-generic.png");
+	background-size:100% 100%;
+	background-repeat:no-repeat; 
+}
+#spanImg6 {
+	background-image:url("https://developers.google.com/maps/documentation/maps-static/images/error-image-generic.png");
+	background-size:100% 100%;
+	background-repeat:no-repeat; 
+}
+#spanImg7 {
+	background-image:url("https://developers.google.com/maps/documentation/maps-static/images/error-image-generic.png");
+	background-size:100% 100%;
+	background-repeat:no-repeat; 
+}
+#spanImg8 {
+	background-image:url("https://developers.google.com/maps/documentation/maps-static/images/error-image-generic.png");
+	background-size:100% 100%;
+	background-repeat:no-repeat; 
 }
